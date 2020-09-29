@@ -10,6 +10,6 @@ citation: 'Ong, H., & Roundy, P. E. (2019). Linear effects of nontraditional Cor
 ---
 This paper is about how the nontraditional Coriolis terms affect flow response to heat sources.
 
-[Download paper here](https://doi.org/10.1002/qj.3572)
+[Download accepted version here](https://doi.org/10.1002/qj.3572)
 
 Recommended citation: Ong, H., & Roundy, P. E. (2019). Linear effects of nontraditional Coriolis terms on intertropical convergence zone forced large‐scale flow. <i>Q. J. R. Meteorol. Soc., 145</i>(723), 2445-2453.
