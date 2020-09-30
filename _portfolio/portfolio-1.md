@@ -49,6 +49,13 @@ Three of my honors and awards are directly related to this project.
 
 [Student Presenter Award - Poster 1st Place, Annual Meeting, AMS (2019)](https://ams.confex.com/ams/2019Annual/webprogram/alphabetical.html)
 
+Video
+====
+
+Recorded PhD Dissertation Defense:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0RKC-A_xAp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Project Status
 ====
 
