@@ -1,6 +1,6 @@
 ---
 title: "Research about diabatic tilting of potential vorticity"
-excerpt: "My current side project (2018-) with 1 paper in review<br/><img src='/images/Research_3.svg'>"
+excerpt: "My current side project (2018-) with 1 paper in review<br/><img src='/images/Research3.png'>"
 collection: portfolio
 ---
 
