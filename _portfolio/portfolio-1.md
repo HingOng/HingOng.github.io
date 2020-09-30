@@ -1,6 +1,6 @@
 ---
 title: "Research about nontraditional Coriolis terms"
-excerpt: "My ongoing main project (2018-) with 3 publications and 3 awards<br/><img src='/images/Research1.png'>"
+excerpt: "My ongoing main project (2018-) with 3 publications and 3 awards<br/><img src='/images/Research1.png' width='400'>"
 collection: portfolio
 ---
 
