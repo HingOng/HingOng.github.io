@@ -1,6 +1,6 @@
 ---
 title: "Research about dynamic compensation of convective mass flux"
-excerpt: "My previous main project (2015-2017) with 1 publication<br/><img src='/images/Research2.png'>"
+excerpt: "My previous main project (2015-2017) with 1 publication<br/><img src='/images/Research2.png' width='400'>"
 collection: portfolio
 ---
 
