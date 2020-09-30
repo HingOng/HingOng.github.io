@@ -13,25 +13,12 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 Motivation
 ====
 
-Traditional Approximation
-----
-
-Most of the current global atmospheric models use the hydrostatic [primitive equations](https://en.wikipedia.org/wiki/Primitive_equations) to predict atmospheric motion. Because of the use of the [hydrostatic equation](https://glossary.ametsoc.org/wiki/Hydrostatic_equation), omitting NCTs, so-called the traditional approximation in geophysical fluid dynamics, is needed for dynamical consistency and energy conservation.
-
-Modern Application
-----
-
-On the pathway toward relaxing the hydrostatic approximation, many models restore the vertical acceleration term but not NCTs.
-
-Traditional-Modern Inconsistency
-----
-
-NCTs are omitted for the use of the hydrostatic equation. According to a scale analysis, vertical acceleration term is far smaller than the vertical NCT for a horizontal length scale of 100 km or larger.
+Most of the current global atmospheric models use the hydrostatic approximation to predict atmospheric motion, omitting NCTs and the vertical acceleration term. To justify the hydrostatic approximation, according to a scale analysis, the buoyancy term is much larger than the vertical NCT for midlatitude atmospheric flow, and the vertical NCT is much larger than the vertical acceleration term for atmospheric flow whose width is larger than depth. However, on the pathway toward relaxing the hydrostatic approximation, many models restore the vertical acceleration term but not NCTs. Moreover, for tropical large-scale flow, the buoyancy term may be small enough to consider NCTs. Is there any consequence of these inconsistencies?
 
 Summary
 ====
 
-In linear models, NCTs affect the flow response to heat sources by ~10%, and the hypsometric relation by ~5%, and the equatorial wave phase speed by ~0.25 m/s, or the meridional vorticity tendency associated with the [Madden–Julian oscillation](https://en.wikipedia.org/wiki/Madden%E2%80%93Julian_oscillation) by ~10%. Unlike many numerical errors in the models, these effects don’t start small and grow large with time integration. Instead, omitting these effects biases the initial pressure-height relation and biases the zonal wind and wave propagation every time step. These biases may grow even larger if nonlinear processes are considered, which is left for future studies. These results encourage restoring NCTs into the models for more-accurate simulations for tropical large-scale flow. This restoration is not going to resolve all the problems, and the importance of improving the representation of physical processes is not downgraded. However, the restoration of NCTs should be among the top priorities of model development, because all other parts of the development depend on the choice of governing equations.
+In linear models, NCTs affect the flow response to heat sources by ~10%, and the hypsometric relation by ~5%, and the equatorial wave phase speed by ~0.25 m/s. Unlike many numerical errors in the models, these effects don’t start small and grow large with time integration. Instead, omitting these effects biases the initial pressure-height relation and biases the zonal wind and wave propagation every time step. These biases may grow even larger if nonlinear processes are considered, which is left for future studies. These results encourage restoring NCTs into the models for more-accurate simulations for tropical large-scale flow. This restoration is not going to resolve all the problems, and the importance of improving the representation of physical processes is not downgraded. However, the restoration of NCTs should be among the top priorities of model development, because all other parts of the development depend on the choice of governing equations.
 
 Broader Impact
 ====
