@@ -4,4 +4,6 @@ excerpt: "My current side project (2018-) with 1 paper in review<br/><img src='/
 collection: portfolio
 ---
 
+<img src='/images/Research3.png' width='400'>
+
 A schematic diagram illustrating changes in isentropic surfaces (black) and a vorticity tube (vorticity in green and velocity rings perpendicular to it in blue) that are (a) originally in parallel and have undergone (b) adiabatic tilting and (c) diabatic tilting
