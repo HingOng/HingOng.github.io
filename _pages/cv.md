@@ -15,7 +15,5 @@ Education
 * MS in Atmospheric Sciences, National Taiwan University, 2016
 * BS in Atmospheric Sciences, National Taiwan University, 2014
 
-Work experience
-======
-* 2020-    : Postdoctoral Scholar, Department of Land, Air and Water Resources, University of California, Davis
-* 2016-2017: Research Assistant, Department of Atmospheric Sciences, National Taiwan University
+[Full CV](https://hingong.github.io/files/HingOngCV_public.pdf)
+====
