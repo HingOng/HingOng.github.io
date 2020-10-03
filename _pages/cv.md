@@ -27,5 +27,7 @@ Honors and Awards
 
 [Student Presenter Award - Poster 1st Place, Annual Meeting, AMS (2019)](https://ams.confex.com/ams/2019Annual/webprogram/alphabetical.html)
 
+Dean’s Award, College of Science, National Taiwan University (2014)
+
 [Full CV](https://hingong.github.io/files/HingOngCV_public.pdf)
 ====
