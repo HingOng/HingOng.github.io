@@ -10,7 +10,7 @@ redirect_from:
 
 I am Hing Ong, a Postdoctoral Scholar at University of California, Davis. Welcome to my academic personal website.
 
-I am interested in Geophysical Fluid Dynamics and Earth System Modeling. I have a keen sense of inconsistencies between traditional approximations and modern applications, and the desire to find out the consequences of the inconsistencies motivates me to study. Such inconsistency-motivated thinking has led me into the following distinct research topics: (1) nontraditional Coriolis terms, (2) dynamic compensation of convective mass flux, and (3) diabatic tilting of potential vorticity.
+I am interested in Geophysical Fluid Dynamics and Earth System Modeling. I have a keen sense of inconsistencies between traditional approximations and modern applications, and the desire to find out the consequences of the inconsistencies motivates me to study. Such inconsistency-motivated thinking has led me into the following distinct research topics: (1) [nontraditional Coriolis terms](https://hingong.github.io/portfolio/portfolio-1/), (2) [dynamic compensation of convective mass flux](https://hingong.github.io/portfolio/portfolio-2/), and (3) [diabatic tilting of potential vorticity.](https://hingong.github.io/portfolio/portfolio-3/)
 
 I am also interested in teaching. I usually volunteer to teach whenever I see an opportunity; for example, I served as a teaching assistant when I was a graduate student at National Taiwan University and University at Albany, State University of New York.
 
