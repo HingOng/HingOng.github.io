@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hing Ong, a Postdoctoral Scholar at University of California, Davis. Welcome to my academic personal website.
+I am Hing Ong, a Postdoctoral Scholar at University of California, Davis, working in [Dr. Da Yang's research group](https://www.yang-climate-group.org/). Welcome to my academic personal website.
 
 I am interested in Geophysical Fluid Dynamics and Earth System Modeling. I have a keen sense of inconsistencies between traditional approximations and modern applications, and the desire to find out the consequences of the inconsistencies motivates me to study. Such inconsistency-motivated thinking has led me into the following distinct research topics: (1) [nontraditional Coriolis terms](https://hingong.github.io/portfolio/portfolio-1/), (2) [dynamic compensation of convective mass flux](https://hingong.github.io/portfolio/portfolio-2/), and (3) [diabatic tilting of potential vorticity.](https://hingong.github.io/portfolio/portfolio-3/)
 
