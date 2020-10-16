@@ -15,6 +15,6 @@ This paper is about how the nontraditional Coriolis terms affect equatorial wave
 
 Watch and listen to the supplemental animation:
 
-<iframe src="https://HingOng.github.io/images/EqWave.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="https://HingOng.github.io/images/EqWave.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Download supplemental compilation of graphics](https://HingOng.github.io/files/cmprs_rsb_wave_u.pdf)
