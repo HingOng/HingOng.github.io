@@ -11,10 +11,12 @@ citation: 'Ong, H., & Roundy, P. E. (2020). The compressional beta effect: Analy
 
 This paper is about how the nontraditional Coriolis terms affect equatorial wave propagation mechanism.
 
+[© Copyright [2020] AMS](https://www.ametsoc.org/PUBSCopyrightPolicy)
+
 [Download accepted version here](https://HingOng.github.io/files/ATM523ClassProjectOngRoundyPreprintV3.pdf)
+
+[Download supplemental compilation of graphics](https://HingOng.github.io/files/cmprs_rsb_wave_u.pdf)
 
 Watch and listen to the supplemental animation:
 
 <iframe  width="560" height="315" src="https://HingOng.github.io/images/EqWave.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[Download supplemental compilation of graphics](https://HingOng.github.io/files/cmprs_rsb_wave_u.pdf)
