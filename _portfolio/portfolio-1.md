@@ -55,4 +55,4 @@ Publication
 
 [Ong, H., & Roundy, P. E. (2020). Nontraditional hypsometric equation. <i>Q. J. R. Meteorol. Soc., 146</i>(727), 700-706.](https://hingong.github.io/publication/2019-11-19-paper-title-number-3)
 
-[Ong, H., & Roundy, P. E. (2020). The compressional beta effect: Analytical solution, numerical benchmark, and data analysis. <i>J. Atmos. Sci., 77</i>(11), 3721-3732.](https://hingong.github.io/publication/2020-08-31-paper-title-number-4)
+[Ong, H., & Roundy, P. E. (2020). The compressional beta effect: Analytical solution, numerical benchmark, and data analysis. <i>J. Atmos. Sci., 77</i>(11), 3721-3732.](https://hingong.github.io/publication/2020-10-15-paper-title-number-4)
