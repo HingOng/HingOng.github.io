@@ -26,10 +26,7 @@ The accepted paper gives insight into how convective clouds can change a weather
 Video
 ====
 
-Recorded Presentation at the 99th AMS Annual Meeting on 7 Jan 2019:
-
-<iframe width="600" height="400" src="https://ams.confex.com/ams/2019Annual/videogateway.cgi/id/50816?recordingid=50816" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[Recorded Presentation at the 99th AMS Annual Meeting on 7 Jan 2019](https://ams.confex.com/ams/2019Annual/videogateway.cgi/id/50816?recordingid=50816)
 
 Project Status
 ====
