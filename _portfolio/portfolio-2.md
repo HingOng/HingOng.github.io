@@ -26,7 +26,7 @@ My master thesis points out a problem and a remedy in representing convection in
 Project Status
 ====
 
-I have switched to other projects while other people keep going. [Cited by](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6871585193749678458&as_sdt=5)
+I have switched to other projects while other people keep going, e.g., see [Cited by](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6871585193749678458&as_sdt=5)
 
 Publication
 ====
