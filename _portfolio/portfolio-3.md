@@ -31,4 +31,4 @@ Video
 Project Status
 ====
 
-My ongoing side project (2018-). I have been thinking about this process, analyzing it with data, and presenting about it in conferences. However, I had not found the motives to compose a paper about it until I read Hitchman and Rowe (2019) and peer-reviewed their subsequent paper. The comment-reply correspondence was a pleasant experience.
+My ongoing side project (2018-). I have been thinking about this process, analyzing it with data, and presenting about it in conferences. However, I had not found the motives to compose a paper about it until I read [Hitchman and Rowe (2019)](https://doi.org/10.1175/MWR-D-18-0232.1) and peer-reviewed their subsequent paper. The comment-reply correspondence was a pleasant experience.
