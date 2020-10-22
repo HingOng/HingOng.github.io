@@ -16,12 +16,12 @@ Potential vorticity (PV) field describes the balanced (quasi-hydrostatic and gra
 Summary
 ====
 
-The accepted paper reinterprets tilting of vorticity from along-isentropic (horizontal) to cross-isentropic (vertical) as along-isentropic flux of PV due to cross-isentropic momentum transport. Through this process, given vertically sheared winds, latent heat release in convective clouds tends to yield a pair of opposite signed PV without the need of preexisting PV.
+This study reinterprets tilting of vorticity from along-isentropic (horizontal) to cross-isentropic (vertical) as along-isentropic flux of PV due to cross-isentropic momentum transport. Through this process, given vertically sheared winds, latent heat release in convective clouds tends to yield a pair of opposite signed PV without the need of preexisting PV.
 
 Broader Impact
 ====
 
-The accepted paper gives insight into how convective clouds can change a weather system because, generally, the balanced part of the change stays in the weather system while the unbalanced part disperses with gravity waves. It explains how convective clouds can lead to inertial or symmetric instability because the diabatic tilting can change the sign of PV. Such insight may lead to improvement in weather prediction.
+This study gives insight into how convective clouds can change a weather system because, generally, the balanced part of the change stays in the weather system while the unbalanced part disperses with gravity waves. It explains how convective clouds can lead to inertial or symmetric instability because the diabatic tilting can change the sign of PV. Such insight may lead to improvement in weather prediction.
 
 Video
 ====
@@ -31,4 +31,4 @@ Video
 Project Status
 ====
 
-My ongoing side project (2018-). I have been thinking about this process, analyzing it with data, and presenting about it in conferences. However, I had not found the motives to compose a paper about it until I read [Hitchman and Rowe (2019)](https://doi.org/10.1175/MWR-D-18-0232.1) and peer-reviewed their subsequent paper. The comment-reply correspondence was a pleasant experience.
+As my ongoing side project (2018-), I have been thinking about this process, analyzing it with data, and presenting about it in conferences. However, I had not found the motives to compose a paper about it until I read [Hitchman and Rowe (2019)](https://doi.org/10.1175/MWR-D-18-0232.1) and peer-reviewed their subsequent paper. The comment-reply correspondence was a pleasant experience.
