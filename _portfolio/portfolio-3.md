@@ -11,7 +11,7 @@ A schematic diagram illustrating changes in isentropic surfaces (black) and a vo
 Motivation
 ====
 
-Potential vorticity (PV) field uniquely (given boundary conditions) describes the balanced (quasi-hydrostatic and gradient wind) part of atmospheric flow. PV is conserved in adiabatic and frictionless flow. While diabatic heating or cooling can change the balanced and unbalanced (e.g., gravity waves) parts of the flow, studying diabatic effects on PV is important because it untangles the changes in the balanced part of the flow from coupling with the unbalanced part. In the pioneering study on PV by [Hoskins et al. (1985)](https://doi.org/10.1002/qj.49711147002), they pointed out that diabatic heating or cooling changes PV mainly through diabatic streching for quasi-geostrophic balanced flow (small [Rossby number](https://en.wikipedia.org/wiki/Rossby_number)), and then they dropped the diabatic tilting term in the PV equation. However, some later studies dropped the diabatic tilting term without considering the possibility of its importance given the large Rossby number, leaving me wondering.
+Potential vorticity (PV) field describes the balanced (quasi-hydrostatic and gradient wind) part of atmospheric flow. PV is conserved in adiabatic and frictionless flow. While diabatic heating or cooling can change the balanced and unbalanced (e.g., gravity waves) parts of the flow, studying diabatic effects on PV is important because it untangles the changes in the balanced part of the flow from coupling with the unbalanced part. In the pioneering study on PV by [Hoskins et al. (1985)](https://doi.org/10.1002/qj.49711147002), they pointed out that diabatic heating or cooling changes PV mainly through diabatic streching for quasi-geostrophic balanced flow (small [Rossby number](https://en.wikipedia.org/wiki/Rossby_number)), and then they dropped the diabatic tilting term in the PV equation. However, some later studies dropped the diabatic tilting term without considering the possibility of its importance given the large Rossby number, leaving me wondering.
 
 Summary
 ====
@@ -21,7 +21,7 @@ The accepted paper reinterprets tilting of vorticity from along-isentropic (hori
 Broader Impact
 ====
 
-The accepted paper gives insight into how convective clouds can change a weather system because, generally, the balanced part of the change stays in the weather system while the unbalanced part disperses with gravity waves. Such insight may lead to improvement in weather prediction.
+The accepted paper gives insight into how convective clouds can change a weather system because, generally, the balanced part of the change stays in the weather system while the unbalanced part disperses with gravity waves. It explains how convective clouds can lead to inertial or symmetric instability because the diabatic tilting can change the sign of PV. Such insight may lead to improvement in weather prediction.
 
 Video
 ====
