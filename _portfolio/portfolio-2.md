@@ -31,4 +31,4 @@ I have switched to other projects while other people keep going, e.g., see [Cite
 Publication
 ====
 
-[Ong, H., Wu, C. M., & Kuo, H. C. (2017). Effects of artificial local compensation of convective mass flux in the cumulus parameterization. J. Adv. Model. Earth Syst., 9(4), 1811-1827.](https://hingong.github.io/publication/2017-06-23-paper-title-number-1)
+[Ong, H., Wu, C. M., & Kuo, H. C. (2017). Effects of artificial local compensation of convective mass flux in the cumulus parameterization. <i>J. Adv. Model. Earth Syst., 9</i>(4), 1811-1827.](https://hingong.github.io/publication/2017-06-23-paper-title-number-1)
