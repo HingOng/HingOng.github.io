@@ -6,7 +6,7 @@ collection: portfolio
 
 <iframe width="560" height="315" src="https://HingOng.github.io/images/EqWave.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Zonal temporal dispersion relations of the equatorially confined wave solutions with (black) and without (red) the nontraditional Coriolis terms (NCTs). Except the last frame of the animation, sound of piano is played at a sound frequency proportional to the effective buoyancy frequency used to plot every frame. (From [Ong and Roundy 2020](https://hingong.github.io/publication/2019-11-19-paper-title-number-3)) 
+Zonal temporal dispersion relations of the equatorially confined wave solutions with (black) and without (red) the nontraditional Coriolis terms (NCTs). Except the last frame of the animation, sound of piano is played at a sound frequency proportional to the effective buoyancy frequency used to plot every frame. (From [Ong and Roundy 2020](https://hingong.github.io/publication/2020-10-15-paper-title-number-4)) 
 
 NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Coriolis_force#E%C3%B6tv%C3%B6s_effect) that turn eastward motion upward and upward motion westward, and vice versa.
 
