@@ -4,7 +4,7 @@ excerpt: "My ongoing main project (2018-) with 3 publications and 3 awards<br/><
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="https://HingOng.github.io/images/EqWave.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1tqL_pgOkcs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Zonal temporal dispersion relations of the equatorially confined wave solutions with (black) and without (red) the nontraditional Coriolis terms (NCTs). Except the last frame of the animation, sound of piano is played at a sound frequency proportional to the effective buoyancy frequency used to plot every frame. (From [Ong and Roundy 2020](https://hingong.github.io/publication/2020-10-15-paper-title-number-4)) 
 
