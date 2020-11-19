@@ -36,4 +36,4 @@ My ongoing side project (2018-)
 Publication
 ====
 
-[Ong, H. (2020). Comments on “On the Structure and Formation of UTLS PV Dipole/Jetlets in Tropical Cyclones by Convective Momentum Surges”. Mon. Weather Rev., 148(11), 4693–4695.](https://hingong.github.io/publication/2020-11-19-paper-title-number-5)
+[Ong, H. (2020). Comments on “On the Structure and Formation of UTLS PV Dipole/Jetlets in Tropical Cyclones by Convective Momentum Surges”. <i>Mon. Weather Rev., 148</i>(11), 4693–4695.](https://hingong.github.io/publication/2020-11-19-paper-title-number-5)
