@@ -25,4 +25,6 @@ My blog post using the new conceptual model proposed in this comment paper in a 
 
 <img src='/images/PaddleEnglish.JPG'>
 
+Photo by [Pascal Bernardon on Unsplash](https://unsplash.com/photos/Dl3Wy9TyyXY).
+
 To me, the vertical shear is analogous to the velocity difference between paddle motion and water flow, and the diabatic forcing is analogous to the paddle impingement on the interface. My conceptual model suggests that these ingredients together (take the product) yield the PV dipole. The canoe paddle schematic can be viewed upright or upside down with the impingement representing cooling or heating, respectively. In both cases, with respect to the paddler, the vertical shear is backward, and the diabatic PV flux is rightward.
