@@ -6,7 +6,7 @@ excerpt: 'This paper is about how vertical momentum transport yields horizontal 
 date: 2020-11-19
 venue: 'Mon. Weather Rev.'
 paperurl: 'https://doi.org/10.1175/mwr-d-20-0156.1'
-citation: 'Ong, H. (2020). Comments on “On the Structure and Formation of UTLS PV Dipole/Jetlets in Tropical Cyclones by Convective Momentum Surges”. <i>Mon. Weather Rev., 148</i>(11), 4693–4695.'
+citation: 'Ong, H. (2020). Comments on “On the Structure and Formation of UTLS PV Dipole/Jetlets in Tropical Cyclones by Convective Momentum Surges”. <i>Mon. Weather Rev., 148</i>(11), 4693-4695.'
 ---
 
 This paper is about how vertical momentum transport yields horizontal flux of potential vorticity.
