@@ -20,6 +20,16 @@ var addressPoints = [
     -121.7405
   ],
   [
+    "Fort Collins, CO",
+    40.5853,
+    -105.0844
+  ],
+  [
+    "Princeton, NJ",
+    40.3424,
+    -74.6552
+  ],
+  [
     "San Juan, PR",
     18.4655,
     -66.1057
