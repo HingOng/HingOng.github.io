@@ -10,6 +10,11 @@ Zonal temporal dispersion relations of the equatorially confined wave solutions 
 
 NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Coriolis_force#E%C3%B6tv%C3%B6s_effect) that turn eastward motion upward and upward motion westward, and vice versa.
 
+New
+====
+Preprint: Ong, H., D. Yang, The nontraditional Coriolis terms and convective system propagation. [Link](https://doi.org/10.1002/essoar.10507722.1)
+
+
 Motivation
 ====
 
