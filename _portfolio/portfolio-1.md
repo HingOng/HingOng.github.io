@@ -12,7 +12,7 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 
 New
 ====
-Preprint: Ong, H., D. Yang, The nontraditional Coriolis terms and convective system propagation. [Link](https://doi.org/10.1002/essoar.10507722.1)
+Preprint: Ong, H., & D. Yang, The nontraditional Coriolis terms and convective system propagation. [Link](https://doi.org/10.1002/essoar.10507722.1)
 
 
 Motivation
