@@ -1,6 +1,6 @@
 ---
 title: "Research about nontraditional Coriolis terms"
-excerpt: "My ongoing main project (2018-) with 3 publications and 3 awards<br/><img src='/images/Research1.png'>"
+excerpt: "My ongoing main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research1.png'>"
 collection: portfolio
 ---
 
@@ -10,11 +10,6 @@ Zonal temporal dispersion relations of the equatorially confined wave solutions 
 
 NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Coriolis_force#E%C3%B6tv%C3%B6s_effect) that turn eastward motion upward and upward motion westward, and vice versa.
 
-New
-====
-Preprint: Ong, H., & D. Yang, The nontraditional Coriolis terms and convective system propagation. [Link](https://doi.org/10.1002/essoar.10507722.1)
-
-
 Motivation
 ====
 
@@ -23,12 +18,12 @@ Most of the current global atmospheric models use the hydrostatic approximation 
 Summary
 ====
 
-In linear models, NCTs affect the flow response to heat sources by ~10%, and the hypsometric relation by ~5%, and the equatorial wave phase speed by ~0.25 m/s. Unlike many numerical errors in the models, these effects don’t start small and grow large with time integration. Instead, omitting these effects biases the initial pressure-height relation and biases the zonal wind and wave propagation every time step. These biases may grow even larger if nonlinear processes are considered, which is left for future studies. These results encourage restoring NCTs into the models for more-accurate simulations for tropical large-scale flow. This restoration is not going to resolve all the problems, and the importance of improving the representation of physical processes is not downgraded. However, the restoration of NCTs should be among the top priorities of model development, because all other parts of the development depend on the choice of governing equations.
+Using idealized models without cloud physics, I found that omitting this effect directly yields a westerly wind bias in the convective rainy region that is about 10% of the westerly jet stream. Also, I found that it directly yields errors in the height of radiosonde-observed pressure levels that is about 5% of the height variability in the tropical atmosphere. Furthermore, using an idealized model with cloud physics, my study suggests that the inclusion of the nontraditional Coriolis effect speeds up eastward moving rainy systems and slows down westward moving ones. The speed change agrees with my theory without cloud physics. This study encourages restoring the nontraditional Coriolis effect to the atmospheric models to improve the accuracy of weather and short-term climate prediction. As a technical side product of this study, I developed a tool to test whether the nontraditional Coriolis effect is correctly included into an atmospheric model. The inclusion of NCTs also enables an atmospheric model to simulate deep (vertical extent of at least 80 km) atmosphere.
 
 Broader Impact
 ====
 
-My Ph.D. dissertation suggests that NCTs are considerable in tropical large-scale atmospheric dynamics, but NCTs are omitted in most of the current global models. The ongoing work may further improve our understanding of effects of NCTs and may also lead the weather and climate modeling community to include NCTs into their models to improve prediction, which improves our lives.
+This project shows the weather and climate modeling community that including the nontraditional Coriolis terms (NCTs) into their models can improve weather and climate prediction, which improves our lives. This project is important because it is critical to understand various potential pathways through which the omission of NCTs bias model simulations of tropical weather and climate. This issue is very important to address because tropical atmosphere has a global impact.
 
 Honors and Awards
 ====
@@ -61,3 +56,7 @@ Publication
 [Ong, H., & Roundy, P. E. (2020). Nontraditional hypsometric equation. <i>Q. J. R. Meteorol. Soc., 146</i>(727), 700-706.](https://hingong.github.io/publication/2019-11-19-paper-title-number-3)
 
 [Ong, H., & Roundy, P. E. (2020). The compressional beta effect: Analytical solution, numerical benchmark, and data analysis. <i>J. Atmos. Sci., 77</i>(11), 3721-3732.](https://hingong.github.io/publication/2020-10-15-paper-title-number-4)
+
+[Skamarock, W. C., Ong, H., & Klemp, J. B. (2021). A fully compressible nonhydrostatic deep-atmosphere-equations solver for MPAS. <i>Mon. Weather. Rev., 149</i>(2), 571-583.](https://hingong.github.io/publication/2021-02-17-paper-title-number-6)
+
+[Ong, H., & Yang, D. (2022). The compressional beta effect and convective system propagation. <i>J. Atmos. Sci., 79</i>(8), 2031-2040.](https://hingong.github.io/publication/2022-07-15-paper-title-number-7)
