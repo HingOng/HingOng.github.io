@@ -11,17 +11,16 @@ The schematic vertical cross sections for HYMACS are depicted as follows: (a) th
 Motivation
 ====
 
-In atmospheric convection, convective drafts bring air mass up or down, and a wider environment brings air mass back in compensation. All these processes occur within a ~100-km-wide model grid cell, so the models cannot resolve convection and instead parameterize the bulk effects of both convective drafts and the environment. However, with increasing computer resources, models can run with ~10-km-wide grid cells, wider than convective drafts but narrower than the environment. Is there any consequences of imposing environmental compensating mass flux within a ~10-km-wide grid cell?
+Because of the need for more-accurate atmospheric models that are used to predict weather and climate, I studied a particular assumption in the atmospheric models and found it erroneous. Specifically, I investigated the assumption to impose mass compensation within a model cell. Atmospheric convection is essential to climate, but most climate models cannot resolve convection and must parameterize the bulk effects of unresolved convection. In atmospheric convection, convective drafts bring air mass up or down, and a wider environment brings air mass back in compensation. Conventional convective parameterization imposes local compensation of convective mass flux within a grid cell. However, with increasing computer resources, models can run with grid cells narrower than the environment but still wider than convective drafts; that is, the gray-zone resolution.
 
 Summary
 ====
 
-Instead of imposing local compensation of convective mass flux, a hybrid mass ﬂux cumulus scheme (HYMACS) dynamically resolves mass compensation, making the dynamic response to a prescribed mass lifting to change less with changes in grid-cell width.
-
+My research used a widely used convective parameterization scheme called Kain-Fritsch (KF) scheme a state-of-the-art model called the Weather Research and Forecasting (WRF) Model. I adapted KF scheme into a hybrid mass flux cumulus scheme so that it parameterizes convective drafts but leaves the compensating motion for model dynamics to resolve. With this scheme, I tested the dynamic response of air flow to a prescribed mass lifting and found that the dynamic response to subgrid-scale convection becomes less sensitive to changes in grid-cell width than the conventional approach. Also, I simulated tropical cyclone development and found the imposed local compensation at the gray-zone resolution could cause significant effects on tropical cyclone dynamics. Hence, when improving the resolution of our atmospheric models to the gray-zone, we should avoid the artificial local compensation for convective parameterization, and HYMACS is a simple and useful remedy to dynamically distribute the mass compensation.
 Broader Impact
 ====
 
-My master thesis points out a problem and a remedy in representing convection in weather and climate models when computer resources allow finer model grids than in tradition, which may lead to model development that improves prediction, which improves our lives.
+This project is important because it points out a problem and a remedy in representing convection in weather and climate models when computer resources allow finer model grids than in tradition, which may lead to model development that improves prediction, which improves our lives.
 
 Project Status
 ====
