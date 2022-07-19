@@ -60,7 +60,7 @@ var addressPoints = [
     -90.0715
   ],
   [
-    "New Orleans, LA",
+    "Breckenridge, CO",
     39.4822,
     -106.0462
   ]
