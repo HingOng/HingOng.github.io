@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hing Ong"
 title_separator          : "-"
 name                     : &name "Hing Ong"
-description              : &description "Postdoctoral Scholar at University of California, Davis"
+description              : &description "Postdoctoral Appointee at Argonne National Laboratory"
 url                      : https://HingOng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HingOng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hing Ong"
   avatar           : "Letchworth.jpg"
-  bio              : "Postdoctoral Scholar at UC Davis studying Atmospheric Dynamics"
+  bio              : "Postdoctoral Appointee at Argonne studying Atmospheric Dynamics"
   location         : "Davis, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=V6SlumwAAAAJ"
-  email            : "hxong@ucdavis.edu"
+  email            : "hing.ong@anl.gov"
   researchgate     : "https://www.researchgate.net/profile/Hing_Ong"
   uri              :
   bitbucket        :
