@@ -10,7 +10,12 @@ redirect_from:
 
 I am Hing Ong, a Postdoctoral Appointee at Argonne National Laboratory, working in [Dr. Rao Kotamarthi's research group](https://www.anl.gov/profile/rao-kotamarthi). Welcome to my academic personal website.
 
-I am interested in Geophysical Fluid Dynamics and Earth System Modeling. I have a keen sense of inconsistencies between traditional approximations and modern applications, and the desire to find out the consequences of the inconsistencies motivates me to study. Such inconsistency-motivated thinking has led me into the following distinct research topics: (1) [nontraditional Coriolis terms](https://hingong.github.io/portfolio/portfolio-1/), (2) [dynamic compensation of convective mass flux](https://hingong.github.io/portfolio/portfolio-2/), and (3) [diabatic tilting of potential vorticity.](https://hingong.github.io/portfolio/portfolio-3/)
+I study atmospheric dynamics and modeling. The overarching goal is to improve atmospheric modeling for more-accurate prediction and better understanding of weather and climate.
+
+My expertise in atmospheric model formulation has enabled me to accomplish a wide range of work.
+(1) [Nontraditional Coriolis terms](https://hingong.github.io/portfolio/portfolio-1/). I formulated a few idealized atmospheric models to better understand the significance of a traditionally neglected effect (nontraditional Coriolis terms, or NCTs) of Earth rotation in the tropical atmosphere. I restored NCTs to the dynamical core of the Model for Prediction Across Scales (MPAS) and the System for Atmospheric Modeling (SAM).
+(2) [Dynamic compensation of convective mass flux](https://hingong.github.io/portfolio/portfolio-2/). I formulated a convective parameterization scheme to better represent the interaction between small-scale convection and large-scale environmental flow and implemented the scheme in the Weather Research and Forecasting (WRF) model.
+(3) Physical processes of atmospheric rivers. I analyzed reanalysis data to better understand the physical processes driving atmospheric rivers.
 
 I am also interested in teaching. I usually volunteer to teach whenever I see an opportunity; for example, I served as a teaching assistant when I was a graduate student at National Taiwan University and University at Albany, State University of New York.
 
