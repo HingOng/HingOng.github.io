@@ -30,7 +30,7 @@ My work has directly contributed to the advancement of the Weather Research and 
 Modeling peers inspired
 ====
 
-My research has inspired modeling peers, notably the European Centre for Medium-range Weather Forecast (ECMWF) Integrated Forecast System (IFS), to explore similar methods for representing convection (Malardel & Bechtold 2019).
+My research has inspired modeling peers, notably the European Centre for Medium-range Weather Forecast (ECMWF) Integrated Forecast System (IFS), to explore similar methods for representing convection ([Malardel & Bechtold 2019](https://doi.org/10.1002/qj.3528)).
 
 Broader Impact and Prospects
 ====
