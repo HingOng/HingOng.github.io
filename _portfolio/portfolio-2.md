@@ -1,5 +1,5 @@
 ---
-title: "Research about dynamic compensation of convective mass flux"
+title: "Research about Atmospheric Convection"
 excerpt: "My previous main project (2015-2017) with 1 publication<br/><img src='/images/Research2.png' width='400'>"
 collection: portfolio
 ---
@@ -11,16 +11,31 @@ The schematic vertical cross sections for HYMACS are depicted as follows: (a) th
 Motivation
 ====
 
-Because of the need for more-accurate atmospheric models that are used to predict weather and climate, I studied a particular assumption in the atmospheric models and found it erroneous. Specifically, I investigated the assumption to impose mass compensation within a model cell. Atmospheric convection is essential to climate, but most climate models cannot resolve convection and must parameterize the bulk effects of unresolved convection. In atmospheric convection, convective drafts bring air mass up or down, and a wider environment brings air mass back in compensation. Conventional convective parameterization imposes local compensation of convective mass flux within a grid cell. However, with increasing computer resources, models can run with grid cells narrower than the environment but still wider than convective drafts; that is, the gray-zone resolution.
+Representing subgrid-scale convective processes in atmospheric models presents unique challenges. Existing models often rely on local compensation of convective mass flux within a grid cell, a practice sensitive to grid resolution.
 
-Summary
+Modeling approaches
+====
+To address this issue, I adapted the Kain-Fritsch convective parameterization scheme, allowing it to parameterize convective drafts while leaving the compensating motion for the model dynamics to resolve. I developed a model hierarchy to test the effects of the imposed local compensation (Ong, Wu, & Kuo 2017).
+
+Main finding
 ====
 
-My research used a widely used convective parameterization scheme called Kain-Fritsch (KF) scheme a state-of-the-art model called the Weather Research and Forecasting (WRF) Model. I adapted KF scheme into a hybrid mass flux cumulus scheme so that it parameterizes convective drafts but leaves the compensating motion for model dynamics to resolve. With this scheme, I tested the dynamic response of air flow to a prescribed mass lifting and found that the dynamic response to subgrid-scale convection becomes less sensitive to changes in grid-cell width than the conventional approach. Also, I simulated tropical cyclone development and found the imposed local compensation at the gray-zone resolution could cause significant effects on tropical cyclone dynamics. Hence, when improving the resolution of our atmospheric models to the gray-zone, we should avoid the artificial local compensation for convective parameterization, and HYMACS is a simple and useful remedy to dynamically distribute the mass compensation.
-Broader Impact
+My research demonstrated that this novel approach leads to less sensitivity to changes in grid-cell width, particularly in dynamic responses to subgrid-scale convective updraft. Additionally, I found that the imposed local compensation at certain resolutions could significantly affect simulated tropical cyclone dynamics (Ong, Wu, & Kuo 2017).
+
+Model evolved
 ====
 
-This project is important because it points out a problem and a remedy in representing convection in weather and climate models when computer resources allow finer model grids than in tradition, which may lead to model development that improves prediction, which improves our lives.
+My work has directly contributed to the advancement of the Weather Research and Forecasting (WRF) model, incorporating this novel approach (Ong, Wu, & Kuo 2017).
+
+Modeling peers inspired
+====
+
+My research has inspired modeling peers, notably the European Centre for Medium-range Weather Forecast (ECMWF) Integrated Forecast System (IFS), to explore similar methods for representing convection (Malardel & Bechtold 2019).
+
+Broader Impact and Prospects
+====
+
+This project underscores the need for improved representation of convection in weather and climate models, particularly as computational resources allow for finer model grids. The ongoing exploration of this area holds promise for refining model accuracy and reliability.
 
 Project Status
 ====
