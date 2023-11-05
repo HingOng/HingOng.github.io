@@ -1,6 +1,6 @@
 ---
-title: "Research about nontraditional Coriolis terms"
-excerpt: "My ongoing main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research1.png'>"
+title: "Research about Tropical Large-Scale Atmospheric Dynamics"
+excerpt: "My main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research1.png'>"
 collection: portfolio
 ---
 
@@ -13,17 +13,33 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 Motivation
 ====
 
-Most of the current global atmospheric models use the hydrostatic approximation to predict atmospheric motion, omitting NCTs and the vertical acceleration term. To justify the hydrostatic approximation, according to a scale analysis, the buoyancy term is much larger than the vertical NCT for midlatitude atmospheric flow, and the vertical NCT is much larger than the vertical acceleration term for atmospheric flow whose width is larger than depth. However, on the pathway toward relaxing the hydrostatic approximation, many models restore the vertical acceleration term but not NCTs. Moreover, for tropical large-scale flow, the buoyancy term may be small enough to consider NCTs. Is there any consequence of these inconsistencies?
+Traditional atmospheric models often neglect the nontraditional Coriolis terms (NCTs) due to scale analyses of extratropical atmospheric motion. However, the omission of NCTs in tropical large-scale atmospheric dynamics has been a subject of concern.
 
-Summary
+Modeling approaches
 ====
 
-Using idealized models without cloud physics, I found that omitting this effect directly yields a westerly wind bias in the convective rainy region that is about 10% of the westerly jet stream. Also, I found that it directly yields errors in the height of radiosonde-observed pressure levels that is about 5% of the height variability in the tropical atmosphere. Furthermore, using an idealized model with cloud physics, my study suggests that the inclusion of the nontraditional Coriolis effect speeds up eastward moving rainy systems and slows down westward moving ones. The speed change agrees with my theory without cloud physics. This study encourages restoring the nontraditional Coriolis effect to the atmospheric models to improve the accuracy of weather and short-term climate prediction. As a technical side product of this study, I developed a tool to test whether the nontraditional Coriolis effect is correctly included into an atmospheric model. The inclusion of NCTs also enables an atmospheric model to simulate deep (vertical extent of at least 80 km) atmosphere.
+To address this, I developed a model hierarchy incorporating NCTs into the modeling framework. The hierarchy, from simple to complex, included models with linearized physics that are 1D vertical (Ong & Roundy 2020a), 2D meridional vertical (Ong & Roundy 2019), 2D zonal vertical (Ong & Roundy 2020b), and 3D Model for Prediction Across Scales (MPAS) (Skamarock, Ong, & Klemp 2021). I have also explored the effects of NCTs with full physics in a 2D zonal vertical setting using the System for Atmospheric Modeling (SAM) (Ong & Yang 2022).
+Main findings: My research revealed that omitting NCTs results in a noticeable westerly wind bias in the intertropical convergence zone (ITCZ) (Ong & Roundy 2019) and errors in the height of pressure levels in the tropical atmosphere (Ong & Roundy 2020a). Furthermore, incorporating NCTs in models can affect the speed and behavior of convective systems (Ong & Roundy 2020b; Ong & Yang 2022).
 
-Broader Impact
+Main findings
 ====
 
-This project shows the weather and climate modeling community that including the nontraditional Coriolis terms (NCTs) into their models can improve weather and climate prediction, which improves our lives. This project is important because it is critical to understand various potential pathways through which the omission of NCTs bias model simulations of tropical weather and climate. This issue is very important to address because tropical atmosphere has a global impact.
+My research revealed that omitting NCTs results in a noticeable westerly wind bias in the intertropical convergence zone (ITCZ) (Ong & Roundy 2019) and errors in the height of pressure levels in the tropical atmosphere (Ong & Roundy 2020a). Furthermore, incorporating NCTs in models can affect the speed and behavior of convective systems (Ong & Roundy 2020b; Ong & Yang 2022).
+
+Models evolved
+====
+
+My work has directly contributed to the advancement of MPAS (Skamarock, Ong, & Klemp 2021) and SAM (Ong & Yang 2022), integrating NCTs into their frameworks.
+
+Modeling peers inspired
+====
+
+My research has inspired [Igel & Biello (2020)](https://doi.org/10.1175/JAS-D-20-0024.1) to explore the effects of NCTs in atmospheric models, as evidenced by their work on models like the Regional Atmospheric Modeling System (RAMS).
+
+Broader Impact and Prospects
+====
+
+The significance of NCTs in tropical large-scale atmospheric dynamics with full physics for global atmospheric circulation remain unexplored. My ongoing commitment is to collaborate with modeling peers to further investigate the effects of NCTs on global atmospheric circulation and expand their inclusion in models.
 
 Honors and Awards
 ====
