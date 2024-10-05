@@ -1,6 +1,6 @@
 ---
 title: "Research about Tropical Large-Scale Atmospheric Dynamics"
-excerpt: "My main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research1.png'>"
+excerpt: "My main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research2.png'>"
 collection: portfolio
 ---
 
