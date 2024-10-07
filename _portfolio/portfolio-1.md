@@ -18,12 +18,12 @@ ARs involve both vapor and winds. Most AR tracking methods consider these two co
 Modeling approaches
 ====
 
-My research introduces a new framework for understanding AR dynamics based on a prognostic equation for integrated vapor kinetic energy (IVKE). Incorporating physical processes governing both vapor and wind evolution, this framework allows us to quantify their respective contributions to AR evolution and theirby provides a more comprehensive understanding of AR behavior.
+My research introduces a new framework for understanding AR dynamics based on a prognostic equation for integrated vapor kinetic energy (IVKE). Incorporating physical processes governing both vapor and wind evolution, this framework allows us to quantify their respective contributions to AR evolution and thereby provides a more comprehensive understanding of AR behavior.
 
 Main findings
 ====
 
-The growth of ARs is primarily driven by potential energy conversion to kinetic energy, while their decay results from vapor condensation and turbulenct dissipation. The eastward drift of ARs is primarily due to horizontal advection.
+The growth of ARs is primarily driven by potential energy conversion to kinetic energy, while their decay results from vapor condensation and turbulent dissipation. The eastward drift of ARs is primarily due to horizontal advection.
 
 Broader Impact and Prospects
 ====
