@@ -1,6 +1,6 @@
 ---
 title: "Research about Atmospheric Rivers"
-excerpt: "My main project (2021-) with 1 paper accepted to Nature Communication<br/><img src='/images/AR_case_study.gif'>"
+excerpt: "My main project (2021-) with 1 paper accepted to <i>Nature Communications</i><br/><img src='/images/AR_case_study.gif'>"
 collection: portfolio
 ---
 
