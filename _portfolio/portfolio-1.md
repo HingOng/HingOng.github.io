@@ -35,3 +35,7 @@ Project Status
 
 My ongoing main project (2021-)
 
+Publication
+====
+
+Ong, H., & Yang, D. (2024). Vapor kinetic energy for the detection and understanding of atmospheric rivers. <i>Nat. Commun.</i> (Accepted in principle).
