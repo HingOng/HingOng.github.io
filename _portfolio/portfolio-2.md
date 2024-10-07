@@ -34,7 +34,7 @@ My work has directly contributed to the advancement of MPAS (Skamarock, Ong, & K
 Modeling peers inspired
 ====
 
-My research has inspired [Igel & Biello (2020)](https://doi.org/10.1175/JAS-D-20-0024.1) to explore the effects of NCTs in atmospheric models, as evidenced by their work on models like the Regional Atmospheric Modeling System (RAMS).
+My research has inspired other scientists to explore the effects of NCTs in atmospheric models, as evidenced by their work on models like the Regional Atmospheric Modeling System (RAMS, [Igel & Biello 2020](https://doi.org/10.1175/JAS-D-20-0024.1)) and the weak temperature gradient framework ([Marsico et al. 2023](https://doi.org/10.1175/JAS-D-22-0254.1); [2024](https://doi.org/10.1080/03091929.2023.2292667)).
 
 Broader Impact and Prospects
 ====
