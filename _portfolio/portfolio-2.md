@@ -13,7 +13,7 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 Motivation
 ====
 
-Traditional atmospheric models often neglect the nontraditional Coriolis terms (NCTs) due to scale analyses of extratropical atmospheric motion. However, the omission of NCTs in tropical large-scale atmospheric dynamics has been a subject of concern.
+Tropical large-scale atmospheric dynamics are known to impact global weather and climate. Traditional atmospheric models often neglect the nontraditional Coriolis terms (NCTs) due to scale analyses of extratropical atmospheric motion. However, the omission of NCTs in tropical large-scale atmospheric dynamics has been a subject of concern.
 
 Modeling approaches
 ====
