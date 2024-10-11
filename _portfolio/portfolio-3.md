@@ -11,7 +11,7 @@ The schematic vertical cross sections for HYMACS are depicted as follows: (a) th
 Motivation
 ====
 
-Representing subgrid-scale convective processes in atmospheric models presents unique challenges. Existing models often rely on local compensation of convective mass flux within a grid cell, a practice sensitive to grid resolution.
+Representing convective processes is essential to weather and climate predictions. Existing large-scale atmospheric models often rely on local compensation of convective mass flux within a grid cell, a practice sensitive to grid resolution.
 
 Modeling approaches
 ====
