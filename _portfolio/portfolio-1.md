@@ -6,7 +6,7 @@ collection: portfolio
 
 <img src='/images/AR_case_study.gif'>
 
-The evolution of an atmopsheric river event from 18 to 21 UTC, 3 January 2023 to 18 to 21 UTC, 4 January 2023 from 3-hourly MERRA-2 data. The upper panel shows integrated vapor kinetic energy (IVKE) (contours, minimum level: 15 kg/s^2, interval: 30 kg/s^2) and IVKE tendency (shading, units: kg/s^2/(3 hr)) in each 3-hour period. The lower panel shows IVKE budget analysis using data from each 3-hour period.
+The evolution of an atmospheric river event from 18 to 21 UTC, 3 January 2023 to 18 to 21 UTC, 4 January 2023 from 3-hourly MERRA-2 data. The upper panel shows integrated vapor kinetic energy (IVKE) (contours, minimum level: 15 kg/s^2, interval: 30 kg/s^2) and IVKE tendency (shading, units: kg/s^2/(3 hr)) in each 3-hour period. The lower panel shows IVKE budget analysis using data from each 3-hour period.
 
 Atmospheric rivers (ARs) are long, narrow bands of intense water vapor transport, typically spanning over 1000 km in length and more than 100 km in width, moving primarily eastward. ARs play an essential role in the poleward transport of water vapor in mid-latitudes and can bring extreme wind gusts, intense precipitation, and flooding to densely populated regions along the coast.
 
