@@ -1,6 +1,6 @@
 ---
 title: "Research about Atmospheric Rivers"
-excerpt: "My main project (2021-) with 1 paper accepted to <i>Nature Communications</i><br/><img src='/images/AR_case_study.gif'>"
+excerpt: "My main project (2021-) with a publication in <i>Nature Communications</i><br/><img src='/images/AR_case_study.gif'>"
 collection: portfolio
 ---
 
@@ -38,4 +38,4 @@ My ongoing main project (2021-)
 Publication
 ====
 
-Ong, H., & Yang, D. (2024). Vapor kinetic energy for the detection and understanding of atmospheric rivers. <i>Nat. Commun.</i> (Accepted in principle).
+Ong, H., & Yang, D. (2024). Vapor kinetic energy for the detection and understanding of atmospheric rivers. <i>Nat. Commun., 15</i> 9428.
