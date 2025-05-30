@@ -1,5 +1,5 @@
 ---
-title: "Research about Atmospheric waves"
+title: "Research about Atmospheric Waves"
 excerpt: "My main project (2018-) with 5 publications<br/><img src='/images/RossbyWaveCartoon.png'>"
 collection: portfolio
 ---
