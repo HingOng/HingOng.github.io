@@ -1,6 +1,6 @@
 ---
-title: "Research about Tropical Large-Scale Atmospheric Dynamics"
-excerpt: "My main project (2018-) with 5 publications and 3 awards<br/><img src='/images/Research2.png'>"
+title: "Research about Atmospheric waves"
+excerpt: "My main project (2018-) with 5 publications<br/><img src='/images/RossbyWave.png'>"
 collection: portfolio
 ---
 
@@ -13,18 +13,17 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 Motivation
 ====
 
-Tropical large-scale atmospheric dynamics are known to impact global weather and climate. Traditional atmospheric models often neglect the nontraditional Coriolis terms (NCTs) due to scale analyses of extratropical atmospheric motion. However, the omission of NCTs in tropical large-scale atmospheric dynamics has been a subject of concern.
+Atmospheric waves are known to impact global weather and climate. Traditional atmospheric models often neglect the nontraditional Coriolis terms (NCTs) due to scale analyses of extratropical atmospheric motion. However, the effect of NCTs on atmospheric waves has been a subject of concern.
 
 Modeling approaches
 ====
 
-To address this, I developed a model hierarchy incorporating NCTs into the modeling framework. The hierarchy, from simple to complex, included models with linearized physics that are 1D vertical (Ong & Roundy 2020a), 2D meridional vertical (Ong & Roundy 2019), 2D zonal vertical (Ong & Roundy 2020b), and 3D Model for Prediction Across Scales (MPAS) (Skamarock, Ong, & Klemp 2021). I have also explored the effects of NCTs with full physics in a 2D zonal vertical setting using the System for Atmospheric Modeling (SAM) (Ong & Yang 2022).
-Main findings: My research revealed that omitting NCTs results in a noticeable westerly wind bias in the intertropical convergence zone (ITCZ) (Ong & Roundy 2019) and errors in the height of pressure levels in the tropical atmosphere (Ong & Roundy 2020a). Furthermore, incorporating NCTs in models can affect the speed and behavior of convective systems (Ong & Roundy 2020b; Ong & Yang 2022).
+To address this, I developed a model hierarchy incorporating NCTs into the modeling framework. The hierarchy, from simple to complex, included models with linearized physics that are 1D vertical (Ong & Roundy 2020a), 2D (Ong & Roundy 2020b), and 3D Model for Prediction Across Scales (MPAS) (Skamarock, Ong, & Klemp 2021). I have also explored the effects of NCTs with full physics in a 2D setting using the System for Atmospheric Modeling (SAM) (Ong & Yang 2022). In addition, I created schematic illustration for teaching about atmospheric Rossby waves (Ong & Yang 2025).
 
 Main findings
 ====
 
-My research revealed that omitting NCTs results in a noticeable westerly wind bias in the intertropical convergence zone (ITCZ) (Ong & Roundy 2019) and errors in the height of pressure levels in the tropical atmosphere (Ong & Roundy 2020a). Furthermore, incorporating NCTs in models can affect the speed and behavior of convective systems (Ong & Roundy 2020b; Ong & Yang 2022).
+My research revealed that omitting NCTs results in errors in the height of pressure levels in the tropical atmosphere (Ong & Roundy 2020a). Furthermore, incorporating NCTs in models can affect the speed and behavior of convective systems (Ong & Roundy 2020b; Ong & Yang 2022). In addition, I proposed a right-hand rule for distinguishing the westward traditional planetary Rossby waves and the eastward nontraditional compressional Rossby waves (Ong & Yang 2025).
 
 Models evolved
 ====
@@ -67,8 +66,6 @@ My ongoing main project (2018-)
 Publication
 ====
 
-[Ong, H., & Roundy, P. E. (2019). Linear effects of nontraditional Coriolis terms on intertropical convergence zone forced large‐scale flow. <i>Q. J. R. Meteorol. Soc., 145</i>(723), 2445-2453.](https://hingong.github.io/publication/2019-05-27-paper-title-number-2)
-
 [Ong, H., & Roundy, P. E. (2020). Nontraditional hypsometric equation. <i>Q. J. R. Meteorol. Soc., 146</i>(727), 700-706.](https://hingong.github.io/publication/2019-11-19-paper-title-number-3)
 
 [Ong, H., & Roundy, P. E. (2020). The compressional beta effect: Analytical solution, numerical benchmark, and data analysis. <i>J. Atmos. Sci., 77</i>(11), 3721-3732.](https://hingong.github.io/publication/2020-10-15-paper-title-number-4)
@@ -76,3 +73,5 @@ Publication
 [Skamarock, W. C., Ong, H., & Klemp, J. B. (2021). A fully compressible nonhydrostatic deep-atmosphere-equations solver for MPAS. <i>Mon. Weather. Rev., 149</i>(2), 571-583.](https://hingong.github.io/publication/2021-02-17-paper-title-number-6)
 
 [Ong, H., & Yang, D. (2022). The compressional beta effect and convective system propagation. <i>J. Atmos. Sci., 79</i>(8), 2031-2040.](https://hingong.github.io/publication/2022-07-15-paper-title-number-7)
+
+[Ong, H., & Yang, D. (2025). Westward-or eastward-propagating Rossby waves: Schematic illustrations. <i>J. Atmos. Sci., Accepted.](https://doi.org/10.22541/essoar.173238571.17307721/v1)
