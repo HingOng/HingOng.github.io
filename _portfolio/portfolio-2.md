@@ -41,7 +41,7 @@ This project underscores the need for improved representation of Coriolis effect
 Project Status
 ====
 
-Ongoing
+My ongoing main project (2018-)
 
 Publication
 ====
