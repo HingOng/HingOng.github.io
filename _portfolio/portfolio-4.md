@@ -45,11 +45,11 @@ Honors and Awards
 
 Three of my honors and awards are directly related to this project.
 
-[Climate and Global Change Postdoctoral Fellowship, NOAA (2020-2022)](https://cpaess.ucar.edu/cgc) (My name is not on the list of awardees because I declined the award)
+Climate and Global Change Postdoctoral Fellowship, NOAA (2020-2022) (Declined)
 
-[Government Scholarship to Study Abroad, Ministry of Education, Taiwan (2019-2020)](https://www.scholarship.moe.gov.tw/scholarship)
+Government Scholarship to Study Abroad, Ministry of Education, Taiwan (2019-2020)
 
-[Student Presenter Award - Poster 1st Place, Annual Meeting, AMS (2019)](https://ams.confex.com/ams/2019Annual/webprogram/alphabetical.html)
+Student Presenter Award - Poster 1st Place, Annual Meeting, AMS (2019)
 
 Video
 ====
