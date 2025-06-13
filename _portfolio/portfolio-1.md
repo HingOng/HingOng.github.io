@@ -36,4 +36,4 @@ My ongoing side project (2018-)
 Publication
 ====
 
-Ong, H. (2025). Scale analysis for the Madden–Julian oscillation. <i>Q. J. R. Meteorol. Soc.</i> Accepted.
+[Ong, H. (2025). Scale analysis for the Madden–Julian oscillation. <i>Q. J. R. Meteorol. Soc.</i> Early View.](https://doi.org/10.1002/qj.5028)
