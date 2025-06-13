@@ -38,4 +38,4 @@ My ongoing main project (2021-)
 Publication
 ====
 
-Ong, H., & Yang, D. (2024). Vapor kinetic energy for the detection and understanding of atmospheric rivers. <i>Nat. Commun., 15</i> 9428.
+[Ong, H., & Yang, D. (2024). Vapor kinetic energy for the detection and understanding of atmospheric rivers. <i>Nat. Commun., 15</i> 9428.](https://doi.org/10.1038/s41467-024-53369-0)
