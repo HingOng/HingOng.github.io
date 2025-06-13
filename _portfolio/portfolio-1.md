@@ -1,6 +1,6 @@
 ---
 title: "Research about Madden–Julian oscillation (MJO)"
-excerpt: "My side project (2018-) with a paper accepted for publication<br/><img src='/images/MJOanimation.gif'>"
+excerpt: "My side project (2018-) with one publication<br/><img src='/images/MJOanimation.gif'>"
 collection: portfolio
 ---
 
