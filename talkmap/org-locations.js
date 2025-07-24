@@ -63,20 +63,20 @@ var addressPoints = [
     "Breckenridge, CO",
     39.4822,
     -106.0462
-  ]
+  ],
   [
     "Chicago, IL",
     41.8500,
     -87.6501
-  ]
+  ],
   [
     "Valporaiso, IN",
     41.4838,
     -87.0640
-  ]
+  ],
   [
     "Seattle, WA",
     47.6080,
     -122.3352
-  ]
+  ],
 ];
