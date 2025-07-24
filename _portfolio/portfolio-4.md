@@ -74,4 +74,4 @@ Publication
 
 [Ong, H., & Yang, D. (2022). The compressional beta effect and convective system propagation. <i>J. Atmos. Sci., 79</i>(8), 2031-2040.](https://hingong.github.io/publication/2022-07-15-paper-title-number-7)
 
-[Ong, H., & Yang, D. (2025). Westward-or eastward-propagating Rossby waves: Schematic illustrations. <i>J. Atmos. Sci.</i>, Accepted.](https://doi.org/10.22541/essoar.173238571.17307721/v1)
+[Ong, H., & Yang, D. (2025). Westward-or eastward-propagating Rossby waves: Schematic illustrations. <i>J. Atmos. Sci.</i>, Early Online Release.](https://doi.org/10.1175/JAS-D-24-0253.1)
