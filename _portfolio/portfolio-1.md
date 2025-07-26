@@ -12,7 +12,7 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 
 NCTs, long neglected in global atmospheric models, significantly influence tropical circulation. Over the past seven years, I have uncovered several dynamic pathways through which NCTs alter the tropical circulation. I am leading a cross-institutional project to incorporate NCTs into [CESM3](https://www.cesm.ucar.edu/) and [E3SM](https://docs.e3sm.org/) using two nonhydrostatic dynamical cores, Spectral Element and MPAS [(Skamarock, Ong, and Klemp, 2021)](https://doi.org/10.1175/MWR-D-20-0286.1). Our results suggest that omitting NCTs can be a contributor to the long-standing double intertropical convergence zone (ITCZ) bias in models.
 
-<img src='/images/ITCZ.png'>
+<img src='/images/NCT_hierarchy.png'>
 
 The above figure outlines a model hierarchy for NCT effects. In the nonturbulent regime, NCTs modify the pressure–height relation by making westward-moving mass appear heavier and vice versa [(Ong & Roundy, 2020a)](https://doi.org/10.1002/qj.3703). This effect is involved in two categories of NCT impacts:
 
