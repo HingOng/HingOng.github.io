@@ -1,5 +1,5 @@
 ---
-title: "Research about Atmospheric Waves"
+title: "Research about the nontraditional Coriolis terms"
 excerpt: "My main project (2018-) with 5 publications<br/><img src='/images/RossbyWaveCartoon.png'>"
 collection: portfolio
 ---
