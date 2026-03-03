@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hing Ong"
 title_separator          : "-"
 name                     : &name "Hing Ong"
-description              : &description "Independent Scholar Studying Atmospheric Dynamics and Modeling"
+description              : &description "Independent Scholar"
 url                      : https://HingOng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HingOng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hing Ong"
   avatar           : "Davis_20260223_zoomin.jpg"
-  bio              : "Independent Researcher studying Atmospheric Dynamics and Modeling"
+  bio              : "Independent Scholar studying Atmospheric Dynamics and Modeling"
   location         : "Davis, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
