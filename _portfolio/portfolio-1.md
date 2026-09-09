@@ -12,12 +12,6 @@ NCTs represent components of [Coriolis force](https://en.wikipedia.org/wiki/Cori
 
 NCTs, long neglected in global atmospheric models, significantly influence tropical circulation. Over the past seven years, I have uncovered several dynamic pathways through which NCTs alter the tropical circulation. I am leading a cross-institutional project to incorporate NCTs into [CESM3](https://www.cesm.ucar.edu/) and [E3SM](https://docs.e3sm.org/) using two nonhydrostatic dynamical cores, Spectral Element and MPAS [(Skamarock, Ong, and Klemp, 2021)](https://doi.org/10.1175/MWR-D-20-0286.1). Our results suggest that omitting NCTs can be a contributor to the long-standing double intertropical convergence zone (ITCZ) bias in models.
 
-<img src='/images/NCT_hierarchy.png'>
+<img src='/images/NCT_hierarchy_Ong.png'>
 
-The above figure outlines a model hierarchy for NCT effects. In the nonturbulent regime, NCTs modify the pressure–height relation by making westward-moving mass appear heavier and vice versa [(Ong & Roundy, 2020a)](https://doi.org/10.1002/qj.3703). This effect is involved in two categories of NCT impacts:
-
-•	The compressional beta effect drives compressional Rossby waves eastward ([Gilman & Glatzmeier, 1981](https://doi.org/10.1086/190714); [Verhoeven & Stellmach, 2014](https://doi.org/10.1016/j.icarus.2014.04.019); [Ong & Roundy, 2020b](https://doi.org/10.1175/JAS-D-20-0124.1); [Ong & Yang, 2022](https://doi.org/10.1175/JAS-D-21-0219.1)). When co-existing with the planetary beta effect, there are mixed planetary–compressional Rossby waves ([Bekki et al., 2022](https://doi.org/10.1051/0004-6361/202243164); [Ong & Yang, 2025](https://doi.org/10.1175/JAS-D-24-0253.1)).
-
-•	In the flow response to heating, NCTs drive easterly winds in diabatic heating zones ([Hayashi & Itoh, 2012](https://doi.org/10.1175/JAS-D-11-0334.1); [Ong & Roundy, 2019](https://doi.org/10.1002/qj.3572); [Igel & Biello, 2020](https://doi.org/10.1175/JAS-D-20-0024.1); [Marsico et al., 2023](https://doi.org/10.1175/JAS-D-22-0254.1)), which further concentrate ITCZ precipitation toward the equator via Ekman transport (Ong et al., 2025, abstract).
-
-In the turbulent regime, NCTs affect the upscale turbulent momentum transport ([LeMone, 1983](https://doi.org/10.1175/1520-0469(1983)040<1815:MTBALO>2.0.CO;2); [Verhoeven & Stellmach, 2014](https://doi.org/10.1016/j.icarus.2014.04.019); [Goldsmith et al. 2025](https://doi.org/10.1175/JAS-D-24-0160.1)). I derived the full Reynolds stress equations with NCTs and introduced them into the CLUBB parameterization used in CESM3 (Ong & Larson, ongoing).
+The above figure outlines a model hierarchy for NCT effects on tropical flow.
